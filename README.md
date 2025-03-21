@@ -2,7 +2,7 @@
 
 **Pogrubienie**
 Lista wypunktowana:
-    - jakiś link
-    - jakiś inny link
+- jakiś link
+- jakiś inny link
 
 $Math evn$
